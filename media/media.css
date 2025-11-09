@@ -277,8 +277,12 @@
         width: 320px;
 
     } */
-    .theme {
+    /* .theme {
         display: none;
+    } */
+
+    .fluid {
+        padding: 30px 0;
     }
 
     .button1 {

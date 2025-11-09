@@ -25,18 +25,18 @@
   .label::before {
     content: "";
     top: 0;
-    right: 430px;
+    right: 480px;
   }
 
   .label::after {
     content: "";
     bottom: 0;
-    right: 430px;
+    right: 480px;
   }
 
   .label span {
     top: 11px;
-    right: 430px;
+    right: 480px;
   }
 
   #burger-toggle:checked ~ .label::after {
@@ -59,7 +59,7 @@
     left: 0;
     right: 0;
     background-color: var(--primary-color);
-    padding-top: 300px;
+    padding-top: 400px;
     padding-bottom: 40px;
     z-index: -1;
     flex-direction: column;
