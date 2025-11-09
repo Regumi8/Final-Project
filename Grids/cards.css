@@ -46,6 +46,7 @@
     font-size: 20px;
     width: 130px;
     height: 52px;
+    background-color: #fff;
     margin-left: 40px;
     margin-top: 67px;
     border-radius: 5px;
@@ -60,11 +61,36 @@
     font-size: 20px;
     width: 130px;
     height: 52px;
+    background-color: #fff;
     margin-left: 40px;
     margin-top: 160px;
     border-radius: 5px;
     gap: 10px;
     border: 0;
+}
+
+.reedm:hover {
+    background-color: #8d8d8d;
+}
+
+.reedm2:hover {
+    background-color: #8d8d8d;
+}
+
+.reedm3:hover {
+    background-color: #8d8d8d;
+}
+
+.reedm4:hover {
+    background-color: #8d8d8d;
+}
+
+.reedm5:hover {
+    background-color: #8d8d8d;
+}
+
+.reedm6:hover {
+    background-color: #8d8d8d;
 }
 
 .rot2 {

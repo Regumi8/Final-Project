@@ -11,7 +11,7 @@
 }
 
 .ch1 {
-    background-color: var(--color-icon);
+    background-color: var(--color-exp111);
     width: 300px;
     height: 5px;
     border-radius: 5px;
@@ -31,7 +31,7 @@
 }
 
 .ch2 {
-    background-color: var(--color-icon);
+    background-color: var(--color-exp111);
     width: 259px;
     height: 5px;
     border-radius: 5px;
@@ -44,7 +44,7 @@
 }
 
 .ch3 {
-    background-color: var(--color-icon);
+    background-color: var(--color-exp111);
     width: 200px;
     height: 5px;
     border-radius: 5px;
