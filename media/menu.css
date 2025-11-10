@@ -65,12 +65,12 @@
     flex-direction: column;
     text-align: center;
     left: -100vh;
-    right: 120vh;
+    right: 100vh;
 
   }
 
   #burger-toggle:checked ~ .ul1 {
-    left: -80vh;
+    left: 0;
     right: 0;
   }
 
