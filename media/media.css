@@ -272,11 +272,20 @@
     }
 
     .img1 {
+        margin-top: 20px;
         margin-left: 0;
     }
 
     .scr {
         display: none;
+    }
+
+    .icon {
+        margin-top: 40px;
+    }
+
+    .bgc3 {
+        padding-bottom: 40px;
     }
 }
 
