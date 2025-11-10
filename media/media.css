@@ -270,6 +270,14 @@
         width: 320px;
         margin-right: 100px;
     }
+
+    .img1 {
+        margin-left: 0;
+    }
+
+    .scr {
+        display: none;
+    }
 }
 
 @media (max-width:320px) {  /*Header*/

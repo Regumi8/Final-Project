@@ -80,8 +80,13 @@ body {
     margin: 0 auto;
     max-width: 1200px;
     display: flex;
-    gap: 144px;
+    justify-content: space-between;
+    /* gap: 144px; */
     /* justify-content: space-between; */
+}
+
+.img1 {
+    margin-left: 144px;
 }
 
 .curv {
@@ -91,20 +96,22 @@ body {
 }
 
 .strelka {
+    margin-left: 43px;
+    /* margin-top: 40px; */
     opacity: 25%;
     background-color: var(--third-color);
-    width: 215px;
-    height: 1px;
+    height: 215px;
+    width: 1px;
 }
 
 .scr {
-    margin-top: 180px;
-    position: fixed;
-    right: 200px;
-    gap: 10px;
-    display: flex;
+    margin-left: 14px;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* position: relative; */
+    display: block;
     align-items: center;
-    rotate: -90deg;
+    /* rotate: -90deg; */
 }
 
 .divsec2 {
