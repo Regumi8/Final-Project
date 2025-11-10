@@ -31,7 +31,7 @@
 }
 
 .form__input::placeholder{
-    color:rgb(39, 4, 78 / 0.5)
+    color: var(--third-color25);
 }
 
 .form__input:valid{
@@ -74,6 +74,7 @@ h5::after {
 }
 
 textarea::placeholder {
+    color: var(--third-color25);
     padding: 25px 15px;
     font-size: 16px;
 }
