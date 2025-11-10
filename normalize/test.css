@@ -20,24 +20,25 @@ body {
     list-style: none;
 }
 
-.fluid {
+.nazvanie {
     margin: 0 auto;
     background-color: var(--primary-color);
-    padding: 30px 120px;
-    position: fixed;
+    padding: 30px 0;
+    position: sticky;
     top: 0;
-    z-index: 100;
-    width: 1440px;
+    z-index: 1000;
+    width: 1200px;
     height: 120px;
 }
 
 .cont {
+    margin: 0 auto;
+    width: 1200px;
     display: flex;
 }
 
 .d-flex {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -47,7 +48,7 @@ body {
 
 .sec3 {
     margin: 0 auto;
-    max-width: 1440px;
+    max-width: 100%;
 }
 
 .bgc4 {
@@ -57,7 +58,7 @@ body {
 
 .sec5 {
     margin: 0 auto;
-    max-width: 1440px;
+    max-width: 100%;
 }
 
 .bgc5 {
@@ -73,7 +74,7 @@ body {
 
 .nazvanie {
     margin: 0 auto;
-    width: 1440px;
+    width: 100%;
 }
 
 .test {
@@ -138,15 +139,15 @@ body {
 
 .sec2 {
     margin: 0 auto;
-    max-width: 1440px;
+    max-width: 100%;
 }
 
 .sec4 {
     margin: 0 auto;
-    max-width: 1440px;
+    max-width: 100%;
 }
 
 .sec1 {
     margin: 0 auto;
-    max-width: 1440px;
+    max-width: 100%;
 }

@@ -96,6 +96,8 @@
 
 .rot2 {
     background-image: url("../jpg/image 41.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .card2, .card3, .card4, .card5 {
@@ -110,23 +112,33 @@
 
 .rot {
     background-image: url("../jpg/image 45.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .rot3 {
     background-image: url("../jpg/image 44.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .rot4 {
     background-image: url("../jpg/image 46.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .rot5 {
     background-image: url("../jpg/image 43.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .rot6 {
     margin-top: -40px;
     background-image: url("../jpg/image 47.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .parent {

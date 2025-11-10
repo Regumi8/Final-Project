@@ -25,18 +25,18 @@
   .label::before {
     content: "";
     top: 0;
-    right: 480px;
+    right: 380px;
   }
 
   .label::after {
     content: "";
     bottom: 0;
-    right: 480px;
+    right: 380px;
   }
 
   .label span {
     top: 11px;
-    right: 480px;
+    right: 380px;
   }
 
   #burger-toggle:checked ~ .label::after {
@@ -65,12 +65,12 @@
     flex-direction: column;
     text-align: center;
     left: -100vh;
-    right: 100vh;
+    right: 120vh;
 
   }
 
   #burger-toggle:checked ~ .ul1 {
-    left: 0;
+    left: -80vh;
     right: 0;
   }
 

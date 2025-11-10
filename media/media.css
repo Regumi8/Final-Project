@@ -26,6 +26,10 @@
     .icon {
         margin-left: 20px;
     }
+
+    .ulki {
+        width: 280px;
+    }
 }
 
 @media (max-width: 320px) {  /*картинки*/
@@ -298,7 +302,8 @@
         display: none;
     } */
 
-    .fluid {
+    .nazvanie {
+        position: fixed;
         padding: 30px 0;
     }
 
