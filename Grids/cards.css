@@ -11,6 +11,7 @@
 }
 
 .card1, .card6 {
+    border: 1px solid var(--primary-color-bg);
     background-color: #1b1b1b41;
     position: absolute;
     margin: 0 auto;
@@ -98,6 +99,7 @@
 }
 
 .card2, .card3, .card4, .card5 {
+    border: 1px solid var(--primary-color-bg);
     background-color: #1b1b1b41;
     position: absolute;
     margin: 0 auto;
